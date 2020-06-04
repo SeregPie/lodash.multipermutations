@@ -1,7 +1,7 @@
 {
 	"name": "lodash.multipermutations",
 	"version": "1.0.0",
-	"description": "Calculates all possible multipermutations of a certain size.",
+	"description": "Calculates all possible permutations with repetition of a certain size.",
 	"keywords": [
 		"array",
 		"collection",

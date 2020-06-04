@@ -2,11 +2,11 @@
 
 `_.multipermutations(collection, n)`
 
-Calculates all possible multipermutations of a certain size.
+Calculates all possible permutations with repetition of a certain size.
 
 | argument | description |
 | ---: | :--- |
-| `collection` | A collection of distinct values to calculate the multipermutations from. |
+| `collection` | A collection of distinct values to calculate the permutations from. |
 | `n` | The number of values to combine. |
 
 Returns a new array.
